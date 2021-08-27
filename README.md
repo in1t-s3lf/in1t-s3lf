@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @in1t-s3lf
-- 👀 I’m interested in cyber security and IOT
+- 👀 I’m interested in cyber security and IoT
 - 🌱 I’m currently learning computer vision with opencv
 - 💞️ I’m looking to collaborate on anything to do with programming
 - 📫 How to reach me https://twitter.com/in1t_s3lf
