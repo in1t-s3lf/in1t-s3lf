@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mx
 - 👀 I’m interested in cyber security and IoT
-- 🌱 I’m currently learning computer vision with opencv
+- 🌱 Currently learning automation with home assistant
 - 💞️ Looking for collaborations? Hit me anytime.
 - 📫 How to reach me https://twitter.com/init_mx_self
 <!---
